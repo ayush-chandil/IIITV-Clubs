@@ -1,0 +1,78 @@
+body{
+           
+            
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-weight:bold;
+    background-image:url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-teacher-s-college-classroom-coaching-course-poster-background-image_188494.jpg");            
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:170%;
+    font-size:30px;
+    color:rgb(120,188,166);
+}
+
+
+
+h1{
+    text-align:centre;
+    text-shadow: 2px 2px black;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display:block;
+  text-decoration:solid;
+}
+
+h2{
+   color:grey;
+   font-weight:normal;
+   font-size:20px;
+   font-style:italic;
+   line-height:25px;
+} 
+
+div.gallery {
+    margin: 7px;
+    border: 1px solid #ccc;
+    float:none;
+    width: 150px;
+    box-shadow: 10px 10px 5px grey;
+    
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+    opacity: 0.9;
+  }
+
+  div.gallery:active{
+    color:darkcyan;
+  }
+  
+  div.gallery img {
+    width: 90%;
+    height:20%;
+  }
+  
+  div.desc {
+    padding:8px;
+    text-align:left;
+    display:inline;
+    font-size:18px;
+    color:lime;
+    font-size: 10px;
+  }
+
+  nav{
+     box-sizing:border-box;
+     border: 1px solid #06425C;
+	   color:#06425C;
+	  background-color:#FFFFFF;
+  	overflow: auto;
+     padding-left:20px;
+  }
+
+  
